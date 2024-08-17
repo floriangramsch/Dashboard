@@ -19,6 +19,16 @@ const links = [
     base: "https://cats.floxsite.de:2604",
     favicon: "/static/android-chrome-512x512.png",
   },
+  {
+    name: "Journal",
+    base: "https://cats.floxsite.de:2604",
+    favicon: "/static/android-chrome-512x512.png",
+  },
+  {
+    name: "Fun",
+    base: "https://fun.floxsite.de:2604",
+    favicon: "/static/android-chrome-512x512.png",
+  },
 ];
 
 const getFavicon = (link, parent) => {
