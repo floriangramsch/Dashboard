@@ -1,5 +1,10 @@
 const links = [
   {
+    name: "Dashboard",
+    base: "https://floxsite.de:2604",
+    favicon: "/public/android-chrome-512x512.png",
+  },
+  {
     name: "Bar",
     base: "https://bar.floxsite.de:2604",
     favicon: "/android-chrome-256x256.png",
