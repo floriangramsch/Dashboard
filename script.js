@@ -21,8 +21,8 @@ const links = [
   },
   {
     name: "Journal",
-    base: "https://cats.floxsite.de:2604",
-    favicon: "/static/android-chrome-512x512.png",
+    base: "https://journal.floxsite.de:2604",
+    favicon: "/android-chrome-512x512.png",
   },
   {
     name: "Fun",
