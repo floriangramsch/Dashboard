@@ -27,7 +27,7 @@ const links = [
   {
     name: "Fun",
     base: "https://fun.floxsite.de:2604",
-    favicon: "/static/android-chrome-512x512.png",
+    favicon: "/public/android-chrome-512x512.png",
   },
   {
     name: "Darts",
