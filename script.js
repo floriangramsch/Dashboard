@@ -30,11 +30,6 @@ const links = [
     favicon: "/android-chrome-512x512.png",
   },
   {
-    name: "Advent",
-    base: "https://advent.floxsite.de:2604",
-    favicon: "/web-app-manifest-512x512.png",
-  },
-  {
     name: "Fiona",
     base: "https://fiona.floxsite.de:2604",
     favicon: "/web-app-manifest-512x512.png",
