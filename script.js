@@ -12,7 +12,7 @@ const links = [
   {
     name: "Fitty",
     base: "https://fitty.floxsite.de",
-    favicon: "/android-chrome-256x256.png",
+    favicon: "/web-app-manifest-512x512.png",
   },
   {
     name: "Cats",
