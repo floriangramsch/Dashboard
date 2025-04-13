@@ -1,37 +1,42 @@
 const links = [
   {
     name: "Dashboard",
-    base: "https://floxsite.de:2604",
+    base: "https://floxsite.de",
     favicon: "/public/android-chrome-512x512.png",
   },
   {
     name: "Bar",
-    base: "https://bar.floxsite.de:2604",
+    base: "https://bar.floxsite.de",
     favicon: "/android-chrome-256x256.png",
   },
   {
     name: "Fitty",
-    base: "https://fitty.floxsite.de:2604",
+    base: "https://fitty.floxsite.de",
     favicon: "/android-chrome-256x256.png",
   },
   {
     name: "Cats",
-    base: "https://cats.floxsite.de:2604",
+    base: "https://cats.floxsite.de",
     favicon: "/static/android-chrome-512x512.png",
   },
   {
     name: "Journal",
-    base: "https://journal.floxsite.de:2604",
+    base: "https://journal.floxsite.de",
     favicon: "/android-chrome-512x512.png",
   },
   {
     name: "Darts",
-    base: "https://darts.floxsite.de:2604",
+    base: "https://darts.floxsite.de",
     favicon: "/android-chrome-512x512.png",
   },
   {
     name: "Fiona",
-    base: "https://fiona.floxsite.de:2604",
+    base: "https://fiona.floxsite.de",
+    favicon: "/web-app-manifest-512x512.png",
+  },
+  {
+    name: "Time Tracker",
+    base: "https://time.floxsite.de",
     favicon: "/web-app-manifest-512x512.png",
   },
 ];
