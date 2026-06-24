@@ -1,0 +1,7 @@
+services:
+  dashboard:
+    build: .
+    image: registry.floxsite.de/dashboard
+    ports:
+      - "8080:80"
+    restart: unless-stopped
